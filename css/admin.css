@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    border: 1px solid black;
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+
+}
+.footer{
+    background-color: #fb3640;
+    color: white;
+}
+
+.menu ul{
+    list-style-type: none;
+}

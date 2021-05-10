@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper {
+  padding: 1%;
+  width: 80%;
+  margin: 0 auto;
+}
+.text-center {
+  text-align: center;
+}
+.menu ul {
+  list-style-type: none;
+}
+.menu ul li {
+  display: inline;
+  padding: 1%;
+}
+
+.footer {
+  background-color: #fb3640;
+  color: white;
+}
+.menu {
+  text-align: center;
+}
+.menu ul li a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: #ff75a0;
+}
+menu ul li a:hover {
+  color: #f14668;
+}
+/* 
+  contenido principal */
+.main-content {
+  background-color: #f1f2f6;
+  padding: 3% 0;
+}
+/* ccs para el munu */
+.menu {
+  border-bottom: 1px solid gray;
+}
+.col-4 {
+  width: 18%;
+  background-color: white;
+  margin: 1%;
+  float: left;
+}
+.clearfix {
+  float: none;
+  clear: both;
+}
+/* comienza toda la parte de la tabla */
+.tbl-full {
+  width: 100%;
+}
+table tr th {
+  border-bottom: 1px solid black;
+  padding: 1%;
+  text-align: left;
+}
+table tr td {
+  padding: 1%;
+}
+/* parte del botton */
+.btn-primary {
+  background-color: #3edbf0;
+  padding: 1%;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-primary:hover {
+  background-color: #04009a;
+}
+.btn-secundario {
+  background-color: #9ede73;
+  padding: 1%;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-secundario:hover {
+  background-color: #5b8a72;
+}
+.tbl-30{
+    width: 30%;
+}
